@@ -3,7 +3,7 @@
 
 ### Summary:
 - The name of the folders indicate the point at the game where the save is, e.g. the folder named "SH2" contains a save just after completing Sunset Heights Act 2.
-- These saves have no keys, collection items, or screws collected.
+- These saves have no collection keys, collection items, or screws collected.
 - All levels are S ranked.
 - These saves follow the current (29/11/24) any% route, the only significant effect this has is that SCA1 challenges aren't completed until after Doom Morph is obtained.
 
