@@ -9,7 +9,9 @@
 
 ### How to download:
 - Download the .zip file from the most recent release, and unzip it
+
 **OR**
+
 - Clone this repo
 
 ### How to use on Windows:
