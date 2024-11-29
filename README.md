@@ -1,5 +1,5 @@
 # shadow-generations-saves
-### Saves for Shadow Generations run practice.
+***Saves for Shadow Generations run practice.***
 
 ### Summary:
 - The name of the folders indicate the point at the game where the save is, e.g. the folder named "SH2" contains a save just after completing Sunset Heights Act 2.
@@ -9,11 +9,11 @@
 
 ### How to download:
 - Download the .zip file from the most recent release, and unzip it
-#### OR
+**OR**
 - Clone this repo
 
 ### How to use on Windows:
-- #### Be sure to back up any saves before doing this!
+- **Back up all existing saves before doing this!**
 - Find the file named "gamedata.sav" from the folder with the save location you want to use.
 - To insert the save into slot 1, place the file into "%AppData%\SEGA\SONIC_X_SHADOW_GENERATIONS\steam\[STEAM ID]\game0".
 - To insert the save into slot 2, place the file into "%AppData%\SEGA\SONIC_X_SHADOW_GENERATIONS\steam\[STEAM ID]\game1"
