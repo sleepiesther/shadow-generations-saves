@@ -6,6 +6,7 @@
 - These saves have no collection keys, collection items, or screws collected.
 - All levels are S ranked.
 - These saves follow the current (29/11/24) any% route, the only significant effect this has is that SCA1 challenges aren't completed until after Doom Morph is obtained.
+- The wingless save is a legitimate save that skips getting Doom Wings by using a trick in White Space to enter Radical Highway after beating Mephiles but before obtaining Doom Wings
 
 ### How to download:
 - Download the .zip file from the most recent release, and unzip it
